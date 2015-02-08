@@ -38,7 +38,7 @@ if (userAnswer === "Investigate") {
       prompt("You have to investigate hundreds of people \n How would you like to narrow it down?");
     }
     else if (userAnswer === "Check security footage"){
-      alert("derp derp derp");
+      alert("derp HODOR derp");
     }
 }
 else if (userAnswer === "Call the police") {
